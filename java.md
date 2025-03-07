@@ -4,32 +4,32 @@ Objetivo: Esta pesquisa visa introduzir os conceitos básicos da linguagem Java,
 Tópicos de Pesquisa:
 Introdução ao Java
 O que é Java?
-História e evolução do Java
-Por que Java é uma linguagem popular para desenvolvimento de sistemas?
+-História e evolução do Java
+-Por que Java é uma linguagem popular para desenvolvimento de sistemas?
 Ambiente de Desenvolvimento Java
-O que é JDK, JRE e JVM?
-Como instalar o JDK em seu computador?
-IDEs populares para desenvolvimento Java (Eclipse, IntelliJ IDEA, NetBeans)
+-O que é JDK, JRE e JVM?
+-Como instalar o JDK em seu computador?
+-IDEs populares para desenvolvimento Java (Eclipse, IntelliJ IDEA, NetBeans)
 Estrutura Básica de um Programa Java
-Estrutura de uma classe Java
-O método main() e sua importância
-Comentários em Java
+-Estrutura de uma classe Java
+-O método main() e sua importância
+-Comentários em Java
 Tipos de Dados e Variáveis em Java
-Tipos primitivos (int, double, boolean, char, etc.)
-Declaração e inicialização de variáveis
-Conversão entre tipos de dados
+-Tipos primitivos (int, double, boolean, char, etc.)
+-Declaração e inicialização de variáveis
+-Conversão entre tipos de dados
 Operadores em Java
-Operadores aritméticos
-Operadores de comparação
-Operadores lógicos
-Tratamento de Exceções
+-Operadores aritméticos
+-Operadores de comparação
+-Operadores lógicos
+-Tratamento de Exceções
 Try-catch blocks
-Tipos comuns de exceções
-Lançamento de exceções
+-Tipos comuns de exceções
+-Lançamento de exceções
 Entrada e Saída Básica
-Uso da classe Scanner para entrada
-System.out para saída
-Leitura e escrita de arquivos (introdução)
+-Uso da classe Scanner para entrada
+-System.out para saída
+-Leitura e escrita de arquivos (introdução)
 O meu trabalho
 -->
 
