@@ -1,4 +1,4 @@
-/*
+<!--
 Objetivo: Esta pesquisa visa introduzir os conceitos básicos da linguagem Java, sua estrutura e principais características.
 
 Tópicos de Pesquisa:
@@ -31,7 +31,7 @@ Uso da classe Scanner para entrada
 System.out para saída
 Leitura e escrita de arquivos (introdução)
 O meu trabalho
-*/
+-->
 
 
 # java
